@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        
+        <title>Discover Russia</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="./styles.css" rel="stylesheet">
@@ -14,7 +14,7 @@
             <h1>Discover Russia</h1>
         </header>
         <main>
-            <div class="welcome_text"><div class="welcome_text_child">Our project for english</div>
+            <div class="welcome_text"><div class="welcome_text_child">Our project for eng</div>
             </div>
             <div class="card_container">
                 <a style="display:block" href="east.html">
