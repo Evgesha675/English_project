@@ -107,3 +107,13 @@ footer{
   }
 
   /* ь */
+#EAST:hover path {
+    fill: blue;
+}
+#SIBERIA:hover path {
+    fill: rgb(36, 36, 167);
+}
+#URAL:hover path {
+    fill: rgb(36, 36, 167);
+}
+
