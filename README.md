@@ -14,8 +14,7 @@
             <h1>Discover Russia</h1>
         </header>
         <main>
-            <div class="welcome_text"><div class="welcome_text_child">Russia is the largest country on our dear planet and many tourists from all over the world would like to visit at least a couple of interesting places in our wonderful country. 
-                And so, we tell you about the best places to travel around our vastness!</div>
+            <div class="welcome_text"><div class="welcome_text_child">Our project for english</div>
             </div>
             <div class="card_container">
                 <a style="display:block" href="east.html">
