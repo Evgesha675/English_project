@@ -115,5 +115,24 @@ footer{
 }
 #URAL:hover path {
     fill: rgb(36, 36, 167);
+    
+}
+#YUG:hover path {
+    fill: rgb(244, 32, 13);
+    
+}
+#CENTRAL:hover path {
+    fill: rgb(244, 32, 13);
+    
 }
 
+.rf-map,
+.rf-map *{
+    box-sizing: border-box;
+}    
+.rf-map {
+    position: relative;
+    max-width: 980px;
+    margin: auto;
+    padding: 20px;
+}
