@@ -125,6 +125,10 @@ footer{
     fill: rgb(244, 32, 13);
     
 }
+#SEVER:hover path {
+    fill: rgb(13, 198, 244);
+    
+}
 
 .rf-map,
 .rf-map *{
